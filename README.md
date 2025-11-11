@@ -160,11 +160,14 @@ Méthodes :
 
 
 ### Suivi des Scripts des Développeurs :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/9b9a0a44-5599-4be7-b265-a07c18f55b91" />
+##### base donnee :
+- <img width="960" height="473" alt="image" src="https://github.com/user-attachments/assets/67f48e2c-d2f7-46fb-9331-01a6e7b2c373" />
 ### Gestion des Machines et Employés (JDBC en Couches) : 
-
-
-
+##### test Employe :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/6f30f2ae-f6e7-4a00-8aca-a4061c5c250b" />
+##### test Machine :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/7f98f3f6-0cdf-4df5-be80-7e88b1ca7e19" />
 ## 💡 Concepts Practiced
 
 - Utiliser JDBC pour interagir avec une base MySQL
